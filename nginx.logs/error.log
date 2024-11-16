@@ -1,0 +1,181 @@
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [crit] 21#21: *2 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:11 [error] 21#21: *2 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [crit] 21#21: *1 stat() "/var/www/html/public/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 12:37:12 [error] 21#21: *1 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 17:06:03 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/11/16 17:06:03 [notice] 20#20: gracefully shutting down
+2024/11/16 17:06:03 [notice] 20#20: exiting
+2024/11/16 17:06:03 [notice] 20#20: exit
+2024/11/16 17:06:03 [notice] 22#22: gracefully shutting down
+2024/11/16 17:06:03 [notice] 21#21: gracefully shutting down
+2024/11/16 17:06:03 [notice] 21#21: exiting
+2024/11/16 17:06:03 [notice] 22#22: exiting
+2024/11/16 17:06:03 [notice] 22#22: exit
+2024/11/16 17:06:03 [notice] 23#23: gracefully shutting down
+2024/11/16 17:06:03 [notice] 23#23: exiting
+2024/11/16 17:06:03 [notice] 23#23: exit
+2024/11/16 17:06:03 [notice] 21#21: exit
+2024/11/16 17:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2024/11/16 17:06:03 [notice] 1#1: worker process 23 exited with code 0
+2024/11/16 17:06:03 [notice] 1#1: signal 29 (SIGIO) received
+2024/11/16 17:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 20
+2024/11/16 17:06:03 [notice] 1#1: worker process 20 exited with code 0
+2024/11/16 17:06:03 [notice] 1#1: signal 29 (SIGIO) received
+2024/11/16 17:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2024/11/16 17:06:03 [notice] 1#1: worker process 21 exited with code 0
+2024/11/16 17:06:03 [notice] 1#1: signal 29 (SIGIO) received
+2024/11/16 17:06:03 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/11/16 17:06:03 [notice] 1#1: worker process 22 exited with code 0
+2024/11/16 17:06:03 [notice] 1#1: exit
+2024/11/16 19:28:19 [notice] 1#1: using the "epoll" event method
+2024/11/16 19:28:19 [notice] 1#1: nginx/1.27.1
+2024/11/16 19:28:19 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/11/16 19:28:19 [notice] 1#1: OS: Linux 6.11.6-300.fc41.x86_64
+2024/11/16 19:28:19 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1073741816:1073741816
+2024/11/16 19:28:19 [notice] 1#1: start worker processes
+2024/11/16 19:28:19 [notice] 1#1: start worker process 20
+2024/11/16 19:28:19 [notice] 1#1: start worker process 21
+2024/11/16 19:28:19 [notice] 1#1: start worker process 22
+2024/11/16 19:28:19 [notice] 1#1: start worker process 23
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [crit] 20#20: *1 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:45 [error] 20#20: *1 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [crit] 21#21: *2 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:46 [error] 21#21: *2 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.19.0.1, server: labbit.local, request: "GET / HTTP/1.1", host: "localhost"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [crit] 22#22: *3 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:28:47 [error] 22#22: *3 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [crit] 23#23: *4 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:02 [error] 23#23: *4 rewrite or internal redirection cycle while internally redirecting to "/index.php/", client: 172.19.0.1, server: labbit.local, request: "GET /index.php HTTP/1.1", host: "localhost"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/favicon.ico" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [crit] 20#20: *5 stat() "/var/www/html/frontend/web/index.php/" failed (13: Permission denied), client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:30:03 [error] 20#20: *5 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 172.19.0.1, server: labbit.local, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/index.php"
+2024/11/16 19:40:22 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/11/16 19:40:22 [notice] 21#21: gracefully shutting down
+2024/11/16 19:40:22 [notice] 20#20: gracefully shutting down
+2024/11/16 19:40:22 [notice] 21#21: exiting
+2024/11/16 19:40:22 [notice] 22#22: gracefully shutting down
+2024/11/16 19:40:22 [notice] 22#22: exiting
+2024/11/16 19:40:22 [notice] 22#22: exit
+2024/11/16 19:40:22 [notice] 21#21: exit
+2024/11/16 19:40:22 [notice] 20#20: exiting
+2024/11/16 19:40:22 [notice] 20#20: exit
+2024/11/16 19:40:22 [notice] 23#23: gracefully shutting down
+2024/11/16 19:40:22 [notice] 23#23: exiting
+2024/11/16 19:40:22 [notice] 23#23: exit
+2024/11/16 19:40:22 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2024/11/16 19:40:22 [notice] 1#1: worker process 21 exited with code 0
+2024/11/16 19:40:22 [notice] 1#1: worker process 23 exited with code 0
+2024/11/16 19:40:22 [notice] 1#1: signal 29 (SIGIO) received
+2024/11/16 19:40:22 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/11/16 19:40:22 [notice] 1#1: worker process 20 exited with code 0
+2024/11/16 19:40:22 [notice] 1#1: worker process 22 exited with code 0
+2024/11/16 19:40:22 [notice] 1#1: exit
